@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NorthWind.Entity
 {
-    public class TbClienteBE
+    public class TbClienteBE:EventArgs //Para heredar un argumento de EVENTO. Herencia en C#
     {
         public  int  CodCliente { get; set; }
         public string Nombre { get; set; }

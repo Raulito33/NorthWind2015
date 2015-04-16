@@ -25,3 +25,16 @@ C:\northwind\NorthWind.Win\obj\Debug\NorthWind.Win.Properties.Resources.resource
 C:\northwind\NorthWind.Win\obj\Debug\NorthWind.Win.csproj.GenerateResource.Cache
 C:\northwind\NorthWind.Win\obj\Debug\NorthWind.Win.frmProducto.resources
 C:\northwind\NorthWind.Win\obj\Debug\NorthWind.Win.frmDocumento.resources
+C:\raul\NorthWind.Win\bin\Debug\NorthWind.Win.exe.config
+C:\raul\NorthWind.Win\obj\Debug\NorthWind.Win.exe
+C:\raul\NorthWind.Win\obj\Debug\NorthWind.Win.pdb
+C:\raul\NorthWind.Win\bin\Debug\NorthWind.Win.exe
+C:\raul\NorthWind.Win\bin\Debug\NorthWind.Win.pdb
+C:\raul\NorthWind.Win\bin\Debug\NorthWind.Entity.dll
+C:\raul\NorthWind.Win\bin\Debug\NorthWind.Entity.pdb
+C:\raul\NorthWind.Win\obj\Debug\NorthWind.Win.csprojResolveAssemblyReference.cache
+C:\raul\NorthWind.Win\obj\Debug\NorthWind.Win.frmCliente.resources
+C:\raul\NorthWind.Win\obj\Debug\NorthWind.Win.frmDocumento.resources
+C:\raul\NorthWind.Win\obj\Debug\NorthWind.Win.frmProducto.resources
+C:\raul\NorthWind.Win\obj\Debug\NorthWind.Win.Properties.Resources.resources
+C:\raul\NorthWind.Win\obj\Debug\NorthWind.Win.csproj.GenerateResource.Cache
